@@ -9,9 +9,7 @@ This project provisions **AWS** and **GCP** networking resources along with an *
 It demonstrates modular infrastructure design, multi-cloud provider integration, and professional project structuring.
 
 ---
-
 ## 📂 Project Structure
-
 .
 ├── main.tf              # Root modules (AWS VPC, GCP VPC, IAM Role)
 ├── providers.tf         # Provider configurations (AWS, GCP)
