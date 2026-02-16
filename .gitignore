@@ -4,3 +4,9 @@
 terraform.tfstate
 terraform.tfstate.backup
 crash.log
+
+# Sensitive credentials
+key.json
+*.pem
+*.crt
+*.key
